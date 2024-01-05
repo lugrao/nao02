@@ -21,9 +21,9 @@ xgboost==2.0.3
 # higher support, and you must install CUDA, cuDNN and more: see
 # tensorflow.org for the detailed installation instructions.
 
-tensorflow==1.15.5 # or tensorflow-gpu==1.15.5 for GPU support
+tensorflow==2.15.0 # or tensorflow-gpu==1.15.5 for GPU support
 
-tensorboard==1.15.0
+tensorboard==2.15.1
 
 ##### Reinforcement Learning library (chapter 16)
 
