@@ -29,7 +29,7 @@ tensorboard==2.15.1
 
 # There are a few dependencies you need to install first, check out:
 # https://github.com/openai/gym#installing-everything
-gym[atari,Box2D]==0.18.0
+gym[atari,Box2D]==0.26.2
 # On Windows, install atari_py using:
 # pip install --no-index -f https://github.com/Kojoley/atari-py/releases atari_py
 
